@@ -1,5 +1,5 @@
-# Age-and-gender-classification-from-low-quality-human-face-images
-This project aims to handle and enhance the low-quality images of three different type ( Low-light, Blurred, Pixelated ) and predict the appropriate age and gender of the person on the image
+# Overview:
+The Low-Quality Image Enhancement and Age-Gender Classification System is designed to address the challenges posed by low-quality images (Low-light, Blurred, Pixelated). The system focuses on improving image quality and predicting the age and gender of individuals within these images.
 ![ageandgender](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/badaef0a-c965-41b1-8119-d430eb342745)
 
 
@@ -12,20 +12,23 @@ Visit the Google Drive link via your web browser at https://drive.google.com/fil
 
 ## 2) Making predictions
 
-From any code editor or from the command prompt run file main.py 
+From any code editor or the command prompt run file main.py 
 
-## 3) Sample Results 
-### 1) Low Light Image
-![lowlight](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/7f581d1a-a2c8-44bf-8379-a4380ecc36ca)
-
-### 2) Blurred Image
-![blurred](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/d6ef655c-02a4-4e98-8a10-4141fdd607f9)
-
-### 3) Low Resolution 
-![lowresolution](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/8558ffeb-cd82-426f-810a-03eb726ac620)
+## 3) Image Enhancement 
+### 1) Low Light Image Enhancement
+![lowlight](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/578d7b60-372e-4565-9d88-8657d3a26ff0)
 
 
-# How to Run 
+### 2) Blurred Image Enhancement
+![blurred](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/c24b4664-0880-4ce9-88fe-85516c64af19)
+
+
+### 3) Low Resolution Enhancement
+![lowlight](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/5f175569-79c0-432f-b8a9-457e84071fd9)
+
+
+
+# User Interface
 
 ## Select Type of Low-Quality Image (Blurred, Low-Light, Low-Resolution)
 ![ageandgender](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/8b4ab972-f48e-41f0-8d84-742beaa17f08)
