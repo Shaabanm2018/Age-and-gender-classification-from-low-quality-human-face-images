@@ -16,7 +16,8 @@ From any code editor or the command prompt run file main.py
 
 ## 3) Image Enhancement 
 ### 1) Low Light Image Enhancement
-![lowlight](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/578d7b60-372e-4565-9d88-8657d3a26ff0)
+![304144653-578d7b60-372e-4565-9d88-8657d3a26ff0](https://github.com/user-attachments/assets/7dbd9e0b-a350-4bf1-abab-8b821a44dfaa)
+
 
 
 ### 2) Blurred Image Enhancement
