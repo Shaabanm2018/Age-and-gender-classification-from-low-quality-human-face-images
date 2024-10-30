@@ -25,7 +25,8 @@ From any code editor or the command prompt run file main.py
 
 
 ### 3) Low Resolution Enhancement
-![lowlight](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/5f175569-79c0-432f-b8a9-457e84071fd9)
+![Lowlight](https://github.com/user-attachments/assets/304f062c-8ca2-4bf7-a0e0-daa391a0c445)
+
 
 
 
