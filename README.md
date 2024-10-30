@@ -21,7 +21,8 @@ From any code editor or the command prompt run file main.py
 
 
 ### 2) Blurred Image Enhancement
-![blurred](https://github.com/Shaabanm2018/Age-and-gender-classification-from-low-quality-human-face-images/assets/76607364/c24b4664-0880-4ce9-88fe-85516c64af19)
+![304144676-c24b4664-0880-4ce9-88fe-85516c64af19](https://github.com/user-attachments/assets/e6c4a285-744d-44d7-9724-2e169faf59e8)
+
 
 
 ### 3) Low Resolution Enhancement
